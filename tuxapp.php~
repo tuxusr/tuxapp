@@ -1,0 +1,4 @@
+<?
+session_start();
+include("inc/config.php");
+include("inc/core/core.php");
